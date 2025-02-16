@@ -6,6 +6,7 @@ This repository contains the code for the individual Python assignment focusing 
 - Visualizing variables of interest
 - Running a simple regression and interpreting its results
 - Discussing endogeneity and suitable identification strategies
+  
 **Dataset**
 The dataset used for this assignment is the Gapminder dataset stored in excel file, which includes data on life expectancy, GDP per capita, population, and other variables across multiple countries.
 
